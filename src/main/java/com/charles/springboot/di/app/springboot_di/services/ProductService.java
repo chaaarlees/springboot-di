@@ -35,7 +35,8 @@ public class ProductService implements IProductService {
     // }
 
     @Autowired
-    @Qualifier("productRepo")
+    // @Qualifier("productRepo")
+    @Qualifier("productJson")
     private IProductRepository repository; // Inyectamos la interfaz en vez de la clase
 
 

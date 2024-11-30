@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Cable RJ45",
+        "price": 5000
+    },
+    {
+        "id": 2,
+        "name": "Switch Ethernet",
+        "price": 37500
+    },
+    {
+        "id": 3,
+        "name": "Mouse Inalambrico para zurdos",
+        "price": 40000
+    },
+    {
+        "id": 4,
+        "name": "Teclado mecánico con RGB",
+        "price": 105000
+    },
+    {
+        "id":5,
+        "name":"Joystick PS4 Original",
+        "price":65000
+    }
+]
